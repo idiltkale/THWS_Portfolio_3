@@ -1,0 +1,119 @@
+{
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "category": "italian",
+        "ingredients": ["spaghetti", "guanciale", "eggs", "pecorino cheese", "black pepper"],
+        "image": "https://images.pexels.com/photos/4518844/pexels-photo-4518844.jpeg?auto=compress&cs=tinysrgb&w=1200" 
+      },
+      {
+        "name": "Margherita Pizza",
+        "category": "italian",
+        "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil"],
+        "image": "https://images.freeimages.com/images/large-previews/797/pizza-intermezzo-1317992.jpg" 
+      },
+      {
+        "name": "Lasagna",
+        "category": "italian",
+        "ingredients": ["lasagna noodles", "ricotta cheese", "mozzarella cheese", "ground beef", "tomato sauce", "parmesan cheese"],
+        "image": "https://images.pexels.com/photos/5949884/pexels-photo-5949884.jpeg?auto=compress&cs=tinysrgb&w=1200" 
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "category": "indian",
+        "ingredients": ["chicken breast", "yogurt", "onions", "tomato puree", "garlic", "ginger", "garam masala", "cumin", "coriander"],
+        "image":  "https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "name": "Rogan Josh",
+        "category": "indian",
+        "ingredients": ["lamb", "yogurt", "garlic", "ginger", "tomatoes", "garam masala", "paprika", "cinnamon", "cardamom"],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a8/Rogan_josh02.jpg"
+      },
+      {
+        "name": "Palak Paneer",
+        "category": "indian",
+        "ingredients": ["spinach", "paneer cheese", "onion", "garlic", "ginger", "garam masala", "cumin", "turmeric"],
+        "image":  "https://images.pexels.com/photos/9609835/pexels-photo-9609835.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "name": "Baklava",
+        "category": "turkish",
+        "ingredients": ["phyllo dough", "chopped nuts", "butter", "sugar", "lemon juice", "water", "honey"],
+        "image":  "https://images.pexels.com/photos/7317605/pexels-photo-7317605.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      },
+      {
+        "name": "İskender Kebap",
+        "category": "turkish",
+        "ingredients": ["beef or lamb", "butter", "tomato sauce", "yogurt", "pita bread", "tomatoes", "green peppers"],
+        "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/how-to-make-iskender-kebab-homemade-iskender-kebab-recipe-bae78de4-7c4c-4d2d-9016-456852c22f5c.jpg" 
+      },
+      {
+        "name": "Menemen",
+        "category": "turkish",
+        "ingredients": ["eggs", "tomatoes", "green peppers", "onions", "olive oil", "salt", "black pepper"],
+        "image":  "https://images.aws.nestle.recipes/original/a9a2a21b1fd21130fc60b29ed0d227f2_id138609_menemen1500x700_kopie.jpg"
+      },
+      {
+        "name": "Risotto",
+        "category": "italian",
+        "ingredients": ["arborio rice", "chicken broth", "white wine", "onions", "parmesan cheese", "butter", "salt", "pepper"],
+        "image":  "https://www.tastybits.de/wp-content/uploads/2021/07/risotto-grunrezept_r.jpg"
+      },
+      {
+        "name": "Tiramisu",
+        "category": "italian",
+        "ingredients": ["ladyfingers", "mascarpone cheese", "espresso", "sugar", "cocoa powder", "egg yolks", "rum or brandy"],
+        "image":  "https://baristaroyal.de/cdn/shop/articles/36_1080x.jpg?v=1690360610"
+      },
+      {
+        "name": "Butter Chicken",
+        "category": "indian",
+        "ingredients": ["chicken thighs", "butter", "cream", "tomato puree", "garlic", "ginger", "garam masala", "cumin", "coriander"],
+        "image":  "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+      },
+      {
+        "name": "Biryani",
+        "category": "indian",
+        "ingredients": ["basmati rice", "chicken or lamb", "yogurt", "onions", "tomatoes", "garam masala", "saffron", "milk"],
+        "image":  "https://www.lieferando.de/foodwiki/uploads/sites/8/2017/05/chicken-biryani-5.jpg"
+      },
+      {
+        "name": "Karniyarik",
+        "category": "turkish",
+        "ingredients": ["eggplants", "ground beef", "onions", "tomatoes", "parsley", "green bell peppers", "tomato paste"],
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3iVF_3trl-6oc0soVj_kLwlPSg6yP6x7WhqUYsHzTJg&s"
+      },
+      {
+        "name": "Lahmacun",
+        "category": "turkish",
+        "ingredients": ["ground lamb or beef", "pita dough", "tomatoes", "onions", "paprika", "parsley", "lemon juice"],
+        "image":  "https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/lahmacun-yeni-one-cikan.jpg"
+      },
+      {
+        "name": "Samosa",
+        "category": "indian",
+        "ingredients": ["potatoes", "peas", "cumin seeds", "garam masala", "dough", "oil for frying"],
+        "image":  "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe.jpg"
+      },
+      {
+        "name": "Chana Masala",
+        "category": "indian",
+        "ingredients": ["chickpeas", "onions", "tomatoes", "garlic", "ginger", "garam masala", "cumin", "coriander"],
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDBQYm5H8jglWZADv2Fg5Demz_nYeoxyWEDCve25uig&s"
+      },
+      {
+        "name": "Tavuk Şiş",
+        "category": "turkish",
+        "ingredients": ["chicken breast", "yogurt", "garlic", "paprika", "red pepper flakes", "olive oil"],
+        "image":  "https://kuletower.com/wp-content/uploads/2020/04/tavuk-şiş.jpg"
+      },
+      {
+        "name": "Panna Cotta",
+        "category": "italian",
+        "ingredients": ["cream", "milk", "sugar", "gelatin", "vanilla extract"],
+        "image":  "https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/full_width_tablet_4_3/public/2021-07/panna_cotta_grundrezept_1.jpg?h=4521fff0&itok=kD2P-PGL"
+      }
+    ]
+  }
+  
